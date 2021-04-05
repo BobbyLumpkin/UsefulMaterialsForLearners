@@ -7,3 +7,9 @@ Through the years I've spent at university (especially in graduate school) and n
 ## Who is this for?
 
 In short? Anybody interested in math/stats/data science and analytics. The materials I plan to post here will probably span different levels of technicality from high-level introductions, to explicit explanations of methods. Although, most will likely be dumped from adaptations of my own presentations, meaning they may be written for people with at least some technical background.
+
+## Descriptions of Entries
+
+1. **Deep_COVID_An_Exposition:** An introduction to deep learning, convolutional neural networks and exposition of an application to Covid diagnosis via chest x-rays due to Minaee et al.. (From a class project, in conjunction with classmate, Yue Chu, while a student in the Masters of Applied Statistics Program -- OSU) 
+
+2. **Multi_Label_Learning:** An introduction to the multi-label paradigm, with a focus on two methods both due to Min-Ling Zhang and Zhi-Hua Zhou. Namely, after introducing MLL, we give a brief exposition of both the ML-KNN and BP-MLL methods.
