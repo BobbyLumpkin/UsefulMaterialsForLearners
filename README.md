@@ -2,7 +2,7 @@
 
 ## What/Why is this?
 
-Through the years I've spent at university (especially in graduate school) and now in the workforce, I've often felt it a shame that students, colleagues \& researchers alike so frequently create great content, discussing interesting topics, only to have them seen a handful of times by live audiences in classes or at talks \& meetings. Because of this, I've decided to create this repository with the idea that, at least, any contents I've worked on and found interesting can be shared for other curious peoples. 
+Through the years I've spent at university (especially in graduate school) and now in the workforce, I've often felt it a shame that students, colleagues \& researchers alike so frequently create great content, discussing interesting topics, just to have them seen only a handful of times by live audiences in classes or at talks \& meetings. Because of this, I've decided to create this repository with the idea that, at least, any contents I've worked on and found interesting can be shared for other curious peoples. 
 
 ## Who is this for?
 
