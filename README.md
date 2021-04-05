@@ -6,4 +6,4 @@ Through the years I've spent at university (especially in graduate school) and n
 
 ## Who is this for?
 
-In short? Anybody interested in math/stats/data science and analytics. The materials I plan to post here will probably span different levels of technicality from high-level introductions, to explicit explanations of methods. Although, most will probably be dumped from my own presentations, meaning they may be written for people with at least some technical background.
+In short? Anybody interested in math/stats/data science and analytics. The materials I plan to post here will probably span different levels of technicality from high-level introductions, to explicit explanations of methods. Although, most will likely be dumped from adaptations of my own presentations, meaning they may be written for people with at least some technical background.
